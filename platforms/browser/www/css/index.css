@@ -1,0 +1,38 @@
+.star-rating {
+  position: relative;
+  width: 5em;
+  height: 1em;
+  font-size: 3vh;
+  vertical-align:bottom;
+}
+.star-rating-front {
+  position: absolute;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+  color: #ffcc33;
+}
+.star-rating-back {
+  color: #ccc;
+}
+.txt1{
+font-size: 2vh;
+}
+.photo1{
+background-position: center center;
+background-repeat: no-repeat;
+background-size: 20%;
+position: relative;
+width:auto;
+height : 30vh;
+}
+.photo2{
+width:auto;
+height : 4vh;
+vertical-align:bottom;
+}
+.title_font{
+color: #404040;
+font-weight: bold;
+}
+
